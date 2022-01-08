@@ -49,7 +49,6 @@ public class Main {
         System.out.println("Conteudos Inscritos:"+fernando.getConteudosInscristos());
         fernando.progredir();
         fernando.progredir();
-        fernando.progredir();
         System.out.println("-------");
         System.out.println("Conteudos Inscritos:"+fernando.getConteudosInscristos());
         System.out.println("Conteudos Concluido:"+fernando.getConteudosConcluidos());
